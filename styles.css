@@ -24,10 +24,3 @@ p {
 a {
    font-size: 12px;
 }
-p:nth-child(5) {
-   background: revert;
-   box-shadow: revert;
-   padding: revert;
-   }
-
-/* TODO: Add styles here */
